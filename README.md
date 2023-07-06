@@ -1,4 +1,4 @@
-<h1 align="left">Greetings 👋,   I'm Iegor</h1>
+<h1 align="left">Greetings 👋</h1>
 <h3 align="left">I'm interested in computer science.</h3>
 
 - I’m currently working on [Algorithms](https://github.com/md3grw/Algorithms)
@@ -16,7 +16,7 @@
 
 
 ## 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md3grw&show_icons=true&locale=en&layout=compact" alt="md3grw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md3grw&show_icons=true&locale=en" alt="md3grw" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=md3grw&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=md3grw&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
